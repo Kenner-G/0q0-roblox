@@ -1,6 +1,6 @@
 {
   "name": "0q0-roblox",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Roblox API",
   "main": "lib/index.js",
   "directories": {
