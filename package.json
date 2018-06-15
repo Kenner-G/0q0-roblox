@@ -1,6 +1,6 @@
 {
   "name": "0q0-roblox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Roblox API",
   "main": "lib/index.js",
   "directories": {
@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/0q0-Team/0q0-roblox#readme",
   "dependencies": {
-		"bluebird": "^3.4.0",
-		"cheerio": "^1.0.0-rc.2",
-		"entities": "^1.1.1",
-		"request": "^2.81.0",
-		"request-promise": "^4.2.1",
-		"signalr-client": "0.0.17"
-  },
+    "bluebird": "^3.4.0",
+    "cheerio": "^1.0.0-rc.2",
+    "entities": "^1.1.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "signalr-client": "0.0.17"
+  }
 }
